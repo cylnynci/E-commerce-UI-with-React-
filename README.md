@@ -1,4 +1,4 @@
-# React-ile-E-Ticaret-Tasar-m
+# E-commerce-UI-with-React
 
 ![Ekran Görüntüsü (152)](https://user-images.githubusercontent.com/84045109/161106169-54a78165-bb95-4ce0-8ae7-351f2eb9569c.png)
 ![Ekran Görüntüsü (156)](https://user-images.githubusercontent.com/84045109/161106242-1faa2f34-aa05-452b-a903-bbad13c02c8d.png)
